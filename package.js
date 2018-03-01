@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Login service for VKontakte accounts (https://vk.com)",
-    version: "0.2.1",
+    version: "0.2.2",
     git: "https://github.com/Thundefined/meteor-accounts-vk",
     name: "thundefined:accounts-vk"
 });
